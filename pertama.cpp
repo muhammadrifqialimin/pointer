@@ -25,6 +25,7 @@ public:
 
 class Lingkaran
 {
+public:
     int jarijari;
 
     void input()
